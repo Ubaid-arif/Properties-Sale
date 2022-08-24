@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ac9941e8.css",
+    "main.js": "/static/js/main.aa89f1f4.js",
+    "static/js/787.6abf9490.chunk.js": "/static/js/787.6abf9490.chunk.js",
+    "static/media/backgroundImage.jpg": "/static/media/backgroundImage.483376f8b166a64f6112.jpg",
+    "static/media/Card1.jpg": "/static/media/Card1.832a590ea55404923214.jpg",
+    "static/media/Card5.jpg": "/static/media/Card5.2dcef6fa443564fdae2b.jpg",
+    "static/media/Bayut_Logo.png": "/static/media/Bayut_Logo.15f4fc6048127b75a5aa.png",
+    "static/media/card4.jpg": "/static/media/card4.8904d4f32f7490aab62a.jpg",
+    "index.html": "/index.html",
+    "main.ac9941e8.css.map": "/static/css/main.ac9941e8.css.map",
+    "main.aa89f1f4.js.map": "/static/js/main.aa89f1f4.js.map",
+    "787.6abf9490.chunk.js.map": "/static/js/787.6abf9490.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac9941e8.css",
+    "static/js/main.aa89f1f4.js"
+  ]
+}
